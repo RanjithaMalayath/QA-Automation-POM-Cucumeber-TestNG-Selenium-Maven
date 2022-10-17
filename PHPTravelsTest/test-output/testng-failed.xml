@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PHPTravels Customer Module Test Suite]">
+  <test thread-count="5" name="Customer Access to denied section Test(failed)">
+    <classes>
+      <class name="testrunners.CustomerLoginToInvalidSecs">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- testrunners.CustomerLoginToInvalidSecs -->
+    </classes>
+  </test> <!-- Customer Access to denied section Test(failed) -->
+</suite> <!-- Failed suite [PHPTravels Customer Module Test Suite] -->
